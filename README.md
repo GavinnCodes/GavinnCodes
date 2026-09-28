@@ -18,25 +18,19 @@ I am a software engineering graduate focused on building robust full-stack appli
 
 ### ⚡ Technical Arsenal
 
-| Domain | Core Stack & Tools |
+| Domain | Core Stack & Technologies |
 | :--- | :--- |
-| **Languages & Core** | PHP, JavaScript, Python |
-| **Frameworks** | Laravel 11, Bootstrap 5 |
-| **DevSecOps & Infra** | Docker, Jenkins, Proxmox VE, Linux (Ubuntu/Debian) |
-| **Security & Logging** | Wazuh (Security Log Monitoring), Infrastructure Hardening |
-| **AI & Workflows** | Ollama, Local AI, RAG, Scikit-Learn |
+| **Programming Languages** | PHP, JavaScript / TypeScript, Python, Java, SQL |
+| **Full-Stack Frameworks** | Laravel, Next.js, Django, Spring Boot, Native PHP Architecture, Bootstrap 5, Tailwind CSS |
+| **DevSecOps & Infrastructure** | Docker, Docker Compose, Jenkins, KiND (Kubernetes in Docker), Proxmox VE, Linux (Ubuntu/Debian Server), Infrastructure as Code (Terraform/Terragrunt) |
+| **Security & Log Monitoring** | Wazuh (SIEM/Log Analysis), Security Auditing, Infrastructure Hardening |
+| **AI Workflows & Integration** | AI Foundations Deep Dive, Ollama, Local LLM Integration (Qwen2.5), RAG, Python (Scikit-Learn, Pandas) |
 | **Cloud & Version Control** | Google Cloud Platform (GCP), AWS, Git, GitHub, GitLab |
 
 ---
 
 ### 🛠️ Featured Projects & Milestones
 
-- **Parking Management System:** Engineered a comprehensive web application utilizing Laravel 11 and MySQL as an official BNSP competency and certification project.
+- **Parking Management System:** Engineered a comprehensive full-stack web application utilizing Laravel and MySQL as an official BNSP competency and certification project.
 - **AI-Driven Anomaly Detection:** Implemented unsupervised machine learning scripts (Isolation Forest & Pandas/Regex) for local server log analysis and threat detection.
-- **Infrastructure & Deployment Labs:** Built hands-on local CI/CD pipelines using Docker Compose and Jenkins, backed by server room monitoring exposure.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GavinnCodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+- **Infrastructure & Deployment Labs:** Built hands-on local CI/CD pipelines using Docker Compose, Jenkins, and KiND, backed by server room monitoring exposure.
