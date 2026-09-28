@@ -2,7 +2,7 @@
 
 # Hi, I'm Gavin Mukti Kantadiredja 🚀
 
-[![LinkedIn Badge](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavin-mukti-kantadiredja/)
+[![LinkedIn Badge](https://img.shields.io/badge/Connect-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavin-mukti-kantadiredja/?locale=en-US)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-GavinnCodes-%23181717.svg?logo=github&logoColor=white)](https://github.com/GavinnCodes)
 
 *Software Engineer & Aspiring DevSecOps Engineer*
@@ -21,10 +21,10 @@ I am a software engineering graduate focused on building robust full-stack appli
 | Domain | Core Stack & Technologies |
 | :--- | :--- |
 | **Programming Languages** | PHP, JavaScript / TypeScript, Python, Java, SQL |
-| **Full-Stack Frameworks** | Laravel, Next.js, Django, Spring Boot, Native PHP Architecture, Bootstrap 5, Tailwind CSS |
-| **DevSecOps & Infrastructure** | Docker, Docker Compose, Jenkins, KiND (Kubernetes in Docker), Proxmox VE, Linux (Ubuntu/Debian Server), Infrastructure as Code (Terraform/Terragrunt) |
+| **Full-Stack Frameworks** | Laravel, Next.js, Django, Spring Boot, Native PHP Architecture |
+| **DevSecOps & Infrastructure** | CI/CD Local Track (Jenkins & Shared Library), Docker, Docker Compose, KiND (Kubernetes in Docker), Ansible, Terraform, Proxmox VE, Linux (Ubuntu/Debian Server) |
 | **Security & Log Monitoring** | Wazuh (SIEM/Log Analysis), Security Auditing, Infrastructure Hardening |
-| **AI Workflows & Integration** | AI Foundations Deep Dive, Ollama, Local LLM Integration (Qwen2.5), RAG, Python (Scikit-Learn, Pandas) |
+| **AI Workflows & Integration** | AI Foundations Deep Dive, AI Workflow Automation Mastery, Ollama, Local LLM Integration (Qwen2.5), RAG, Python (Scikit-Learn, Pandas) |
 | **Cloud & Version Control** | Google Cloud Platform (GCP), AWS, Git, GitHub, GitLab |
 
 ---
